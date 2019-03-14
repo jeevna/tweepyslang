@@ -1,0 +1,19 @@
+# tweepyslang
+
+# Context
+
+Current literature has documented dialect patterns in regions of the U.S. and most notably, dialects in the U.S. incorporate very different forms of the plural ‘you’.  Studies of regional dialects have traditionally been based on oral interviews. However, internet users have their conversations take place in an arena where they are exposed to much more variation than their local dialects.  Twitter, an online news and social networking service, is an interesting venue to study online conversations. The public accessibility and pervasive use of Twitter supports thousands of virtual interactions from people all over the world.  This project attempts to find correlations between slang used on Twitter and slang used as part of the regional dialects.
+
+# My Role
+
+Python script writing, Pandas illustration of Tweet locations
+
+# Analysis
+
+The data in this study was collected using the Twitter streaming API, which pulls a random sample of tweets that are publicly available in real time.  Access to Twitter data in large quantities required me to have registered an application that allows me to pull hundreds of tweets along with their geographic location.  Just as Twitter users can individually choose settings that make their tweets public/private, they may also choose to have their geographic location recorded when they tweet.  Each of these tweets have a latitude and longitude recorded.
+
+# Takeaways
+
+Even on the massive scale of the internet it seems that Twitter users generally remain within a certain microblogging community.  For example, a Twitter user in Nevada would be unlikely to view tweets written in Chinese, unless they subscribed to a particular community of Chinese speakers.  This supports my original hypothesis that regionalisms are preserved online. However, there is more to be explicated in the use of a typically “southern” term like ‘y’all’ so often in northern areas like New York City.
+There are other possible reasons for the popularity of “y’all.”  The easily communicable language trends on Twitter, such as the immediate adoption of new slang almost daily, might create a community more susceptible to language leveling.  Mutual awareness in a social network has been found effective in discovering communities (Java 2007) The internet forms micro communities who not only communicate within the boundaries of a region, but also with popular internet culture such as memes.  The use of specific language in the form of memes and easily retweetable content contributes to the prevalence of certain slang, such as y’all. Just as the sailors and young men in Labov’s Martha’s Vineyard study, the conscious use of “y’all” might be a marker of social identity on the internet.  The use of AAVE and other pop culture references serve to fit in with internet culture as a whole. With language in a mutually intelligible and spread-able form, it does not take very long for words to become codified in internet lingo.
+While a global network like Twitter, regionalisms are both preserved in the region of their origin as well as other places.  Regionalisms like yinz and youse are preserved in their regions mainly due to the significant area identity associated with the terms.  In contrast, a southern regionalism like y’all enjoys widespread use outside of its region of origin due to its ties to AAVE and pop culture.  This suggests that multilingualism will be preserved on the internet as people continue to interact with people in their social network. This, is in addition to the popularisation of certain languages through meme culture, offers an interesting mix of languages on the internet.  On a platform such as Twitter, users can choose what they want to consume, but the close network and global reach duality of internet culture will ensure the creation and spread of language unlike spoken forms.
